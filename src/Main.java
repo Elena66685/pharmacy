@@ -8,6 +8,8 @@ public class Main {
         medicines.addMedicine(n);
         medicines.addMedicine(v);
         medicines.listMedicine();
+        Sales g = new Sales("apt", "ghj", 100, "fgh", 456, 456);
+        System.out.println(g);
 
     }
 }
