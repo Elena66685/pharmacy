@@ -5,7 +5,7 @@ public class Medicines implements Comparable<Medicines> {
     private String name;
     private  String nameMedicine;
     private int priceMedicine;
-    private ArrayList<Medicines> medicines = new ArrayList<>();
+    public static ArrayList<Medicines> medicines = new ArrayList<>();
     public static boolean sortByPrice=true;
 
     public Medicines(String name, String nameMedicine, int priceMedicine) {
