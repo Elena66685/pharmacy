@@ -1,3 +1,5 @@
+package Zad2;
+
 import static java.lang.Math.*;
 
 public class Lab {
@@ -12,3 +14,4 @@ public class Lab {
 }
 
 // Lab2
+

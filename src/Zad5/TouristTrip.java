@@ -1,3 +1,5 @@
+package Zad5;
+
 /*19). Туристические туры
 Tourist trip:
 Свойства:
@@ -103,4 +105,5 @@ public class TouristTrip implements Comparable<TouristTrip> {
         this.date = date;
     }
 }
+
 

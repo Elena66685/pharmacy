@@ -1,3 +1,4 @@
+package Zad1;
 
 public class One {
     static void square(int x, int y)
@@ -13,3 +14,4 @@ public class One {
 }
 
 // Задание 1 вариант 7
+

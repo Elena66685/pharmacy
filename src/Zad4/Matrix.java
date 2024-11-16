@@ -1,3 +1,4 @@
+package Zad4;
 
 import java.util.Random;
 
@@ -45,4 +46,4 @@ public class Matrix {
     }
 }
 
-//задание 4 вариант 21
+// Задание 4 вариант 21
